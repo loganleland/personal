@@ -1,2 +1,2 @@
 # personal
-personal website
+source and data for my personal homepage
